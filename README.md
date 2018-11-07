@@ -3,7 +3,7 @@
 
 $ git config user.name "InitialShape"
 
-$ git config user.email "initialshape@protonmail.org
+$ git config user.email "initialshape@protonmail.org"
 
 $ ssh-keygen -t rsa -b 4096 -C "initialshape@protonmail.com" -f $HOME/<project_name>/.ssh
 
